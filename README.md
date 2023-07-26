@@ -1,2 +1,2 @@
 # Nursing-Scheduling-System
-Nursing Scheduling System using python
+Nursing Scheduling System using diffrential evolution
